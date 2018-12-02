@@ -1,0 +1,1 @@
+<footer>© 2018 Виктор Ковтун, по всем вопросам пишите по адресу vickovtu@student.unit.ua</footer>
